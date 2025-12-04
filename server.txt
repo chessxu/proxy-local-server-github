@@ -1,1 +1,1 @@
-hello from server at 1204 pm
+hello from server, is success?
